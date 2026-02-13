@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://masterj122517.github.io/speculum/",
+  "homepage": "https://masterj122517.github.io/Speculum/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
